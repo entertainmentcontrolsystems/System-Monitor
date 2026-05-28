@@ -1,0 +1,5 @@
+psutil>=5.9.0
+nvidia-ml-py>=12.0.0
+
+# Optional — CPU temperature on Windows (requires OpenHardwareMonitor or HWiNFO64)
+# wmi>=1.5.0

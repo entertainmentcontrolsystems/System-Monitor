@@ -1,0 +1,18 @@
+{
+  "refresh_ms": 1000,
+  "avg_seconds": 5,
+  "opacity": 0.92,
+  "x": 12,
+  "y": 851,
+  "show_cpu_avg": true,
+  "show_cpu_cores": true,
+  "show_cpu_temp": true,
+  "show_ram": true,
+  "show_gpu_usage": true,
+  "show_gpu_vram": true,
+  "show_gpu_temp": true,
+  "show_disk": true,
+  "show_network": true,
+  "clickthrough": false,
+  "avg_mode": false
+}
